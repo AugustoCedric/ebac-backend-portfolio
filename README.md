@@ -1,4 +1,4 @@
-
+---
 
 # EBAC Backend Portfolio
 
@@ -48,8 +48,3 @@ Instruções para configurar e executar os projetos localmente:
 Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades! Para isso, basta abrir uma issue ou submeter um pull request.
 
 ---
-
-> **Nota:** Personalize os detalhes, como a lista de projetos e as instruções de execução, de acordo com o que você tem em seu portfólio!
-```
-
-Esse arquivo `README.md` oferece uma visão geral do portfólio de projetos backend, as tecnologias utilizadas e instruções para execução local.
